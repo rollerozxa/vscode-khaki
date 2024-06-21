@@ -4,8 +4,12 @@
 	"description": "Notepad++'s Khaki theme ported to VS Code.",
 	"version": "1.0.0",
 	"publisher": "ROllerozxa",
-	"repository": "https://github.com/rollerozxa/vscode-khaki",
 	"engines": { "vscode": "*" },
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"repository": "https://github.com/rollerozxa/vscode-khaki",
 	"contributes": {
 		"themes": [
 			{
